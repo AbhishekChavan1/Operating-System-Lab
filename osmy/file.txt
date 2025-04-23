@@ -1,0 +1,13 @@
+apple
+banana
+jackfruit
+orange
+apple
+apple
+1
+2
+2
+47
+9
+8
+7
